@@ -1,0 +1,4 @@
+Resolution
+- Try to make new things
+- Making platform for video dashboard
+- Making discussion form
