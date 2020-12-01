@@ -1,0 +1,5 @@
+a quick brown fox jumps over the lazy dog
+
+Resolusi siapa:
+- Membuat website menggunakan framework javascript
+- Bekerja di startup
