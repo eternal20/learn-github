@@ -3,6 +3,7 @@ Rencana konten wpu
 - Javascript
   * ES6
   * Framework JS
+- Fundamental Data Structur
 - PHP
 - Interview
 - Vlogs
